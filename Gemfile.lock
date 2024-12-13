@@ -2,6 +2,7 @@ GEM
   remote: https://rubygems.org/
   specs:
     base64 (0.2.0)
+    dotenv (3.1.4)
     logger (1.6.2)
     rexml (3.3.9)
     rubyzip (2.3.2)
@@ -20,6 +21,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  dotenv
   selenium-devtools (= 0.131.0)
 
 BUNDLED WITH
